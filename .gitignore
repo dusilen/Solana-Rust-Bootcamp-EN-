@@ -1,1 +1,8 @@
 /target
+
+# Keypairs and secrets. Never commit these.
+*-keypair.json
+id.json
+keypair.json
+*.keypair
+**/*-keypair.json

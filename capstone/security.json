@@ -1,0 +1,23 @@
+{
+  "name": "capstone",
+  "logo": "https://solana.com/src/img/branding/solanaLogoMark.png",
+  "description": "A simple on-chain counter (hello world) Anchor program for the Solana Rust Bootcamp capstone.",
+  "notification": "Remember to review and publish this metadata with `anchor program deploy --security-metadata` once the contents are accurate.",
+  "sdk": "https://github.com/dusilen/Solana-Rust-Bootcamp-EN-",
+  "project_url": "https://github.com/dusilen/Solana-Rust-Bootcamp-EN-",
+  "contacts": [
+    "https://github.com/dusilen"
+  ],
+  "policy": "https://github.com/dusilen/Solana-Rust-Bootcamp-EN-",
+  "preferred_languages": [
+    "en",
+    "de"
+  ],
+  "encryption": "https://github.com/dusilen",
+  "source_code": "https://github.com/dusilen/Solana-Rust-Bootcamp-EN-/tree/capstone/capstone",
+  "source_release": "v0.1.0",
+  "source_revision": "capstone",
+  "auditors": [],
+  "acknowledgements": "https://github.com/dusilen/Solana-Rust-Bootcamp-EN-",
+  "version": "0.1.0"
+}
